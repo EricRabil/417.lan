@@ -16,3 +16,6 @@ Basically mission control
 
 # [Proxy](https://proxy.lan)
 Maps all these fancy domain names to their services
+
+# [Setup](http://417.lan/setup)
+Set your device up for communicating over 417's SSL
